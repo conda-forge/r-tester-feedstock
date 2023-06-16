@@ -1,11 +1,11 @@
-About r-tester
-==============
+About r-tester-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tester-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.gastonsanchez.com
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tester-feedstock/blob/main/LICENSE.txt)
 
 Summary: tester allows you to test characteristics of common R objects.
 
