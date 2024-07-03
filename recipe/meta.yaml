@@ -1,6 +1,5 @@
 {% set version = "0.2.0" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-tester
@@ -13,8 +12,7 @@ source:
   sha256: bec8141b8572ca8d19a270a2eaec23aa4c01a167f32f2e05a4bf353418a0020b
 
 build:
-  merge_build_host: true  # [win]
-  number: 0
+  number: 1
   noarch: generic
   rpaths:
     - lib/R/lib/
